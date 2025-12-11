@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Suraj Shingade
 
-🎓 A passionate Information Technology undergrad from **VIIT Pune** (CGPA: 8.98)  
+🎓 A passionate Information Technology undergrad from **VIIT Pune** (CGPA: 9.10)  
 💻 Full-stack web developer who enjoys transforming ideas into robust, user-friendly solutions  
 🚀 Passionate about building scalable apps with a strong user experience  
 ⚡ Hackathon enthusiast | Love solving DSA problems  
