@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Suraj Shingade
 
-🎓 Engineering enthusiast with strong foundations in software development, data structures, and algorithms  
+🎓 Engineering enthusiast with strong foundations in software development, data structures, and algorithms (CGPA: 9.10)
 💻 Full-stack developer experienced in building scalable, user-friendly apps using MERN stack and cloud technologies  
 🚀 Passionate about deploying robust solutions and contributing to hackathons  
 ⚡ Hackathon participant | Problem-solving and DSA enthusiast  
@@ -46,13 +46,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools & Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
