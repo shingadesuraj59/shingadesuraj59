@@ -1,9 +1,9 @@
 ## 👋 Hey there! I'm Suraj Shingade
 
-🎓 Engineering enthusiast with strong foundations in software development, data structures, and algorithms
-💻 Full-stack developer experienced in building scalable, user-friendly apps using MERN stack and cloud technologies  
-🚀 Passionate about deploying robust solutions and contributing to hackathons  
-⚡ Hackathon participant | Problem-solving and DSA enthusiast  
+🎓 Engineering enthusiast with strong foundations in software development, data structures, and algorithms.
+💻 Full-stack developer experienced in building scalable, user-friendly apps using MERN stack and cloud technologies.  
+🚀 Passionate about deploying robust solutions and contributing to hackathons.
+⚡ Hackathon participant | Problem-solving and DSA enthusiast.
 
 ---
 
