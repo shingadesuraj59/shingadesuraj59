@@ -59,9 +59,11 @@
 ## 💼 Projects
 
 **InterviewExp** – Smart Interview Experience & Roadmap Generator  
-- Personalized placement roadmap generator using NLP-based recommendations.  
-- Tech: RAG, Pinecone (Vector DB), PostgreSQL, NLP, Vercel  
+- Personalized placement and internship roadmap generator using **RAG (Retrieval-Augmented Generation) models** and **NLP techniques**.  
+- Users receive role-based recommendations by analyzing quiz results and alumni experiences with **cosine similarity** and vector search.  
+- Tech: **RAG**, **NLP**, Pinecone (Vector DB), PostgreSQL, Vercel  
 - [GitHub](https://github.com/shingadesuraj59/InterviewExp) | [Live Preview](#)
+
 
 **EasyServe** – Canteen Preorder App  
 - MERN-based app with real-time order management and responsive UI  
