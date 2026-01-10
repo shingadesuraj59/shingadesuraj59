@@ -62,7 +62,7 @@
 - Personalized placement and internship roadmap generator using **RAG (Retrieval-Augmented Generation) models** and **NLP techniques**.  
 - Users receive role-based recommendations by analyzing quiz results and alumni experiences with **cosine similarity** and vector search.  
 - Tech: **RAG**, **NLP**, Pinecone (Vector DB), PostgreSQL, Vercel  
-- [GitHub](https://github.com/shingadesuraj59/InterviewExp) | [Live Preview](#)
+- [GitHub](https://github.com/Team-ByteBros/vit-interview) | [Live Preview](https://backend-ty-projeect-v765.vercel.app/)
 
 
 **EasyServe** – Canteen Preorder App  
