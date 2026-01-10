@@ -81,7 +81,6 @@
 ## 🏆 Achievements
 
 - 🥇 Winner – Hackathon at MIT Alandi 2025  
-- 🎓 ONGC Scholarship Recipient – Merit-Based Award  
 - 💻 360+ DSA Problems Solved | LeetCode Contest Rating: 1443  
 
 ---
